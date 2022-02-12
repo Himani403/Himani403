@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Himani403
-- 👀 I’m interested in Makig a Website.....
+- 👋 Hi, I’m Himani
+- 👀 I love to do webdevelopment........
 - 📫 How to reach me hrp03193@gmail.com
 
 <!---
